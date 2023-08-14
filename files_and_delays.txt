@@ -1,0 +1,11 @@
+menu_bg.map / 2000 / -
+16_cistern_entrance.hps / 2000 / -
+00_rainy_hall.hps / 1000 / -
+02_entrance_hall.hps / 1000 / -
+06_distillery.hps / 1000 / -
+13_machine_room.hps / 1000 / -
+15_prison_south.hps / 1000 / -
+15_prison_north.hps / 1000 / -
+24_torture_choir_east.hps / 1000 / -
+23_torture_transept.hps / 1000 / -
+29_orb_chamber.hps / 1000 / -

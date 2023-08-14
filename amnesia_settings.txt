@@ -1,0 +1,3 @@
+skip flashbacks: n
+delay flashbacks: y
+delay files: n
