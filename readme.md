@@ -75,3 +75,11 @@ game_map1.hps will be delayed 1 second on its 1st load and 2.5 seconds on its 2n
 game_map2.hps will be delay 2 seconds, 3 seconds, and 4 seconds in a cycle.
 
 game_map3.hps will restart the other maps' sequences whenever it's loaded.
+
+Compiling:
+
+g++-11 -std=c++2a -m32 -O2 -o 'timer_byte_test.exe file path' 'timer_byte_test.cpp file path' -lrt
+
+g++-11 -std=c++2a -shared -fPIC -O2 -o 'amnesia_tool_64.so file path' 'amnesia_tool.cpp file path'
+
+g++-11 -std=c++2a -m32 -shared -fPIC -O2 -o 'amnesia_tool_32.so file path' 'amnesia_tool.cpp file path'
