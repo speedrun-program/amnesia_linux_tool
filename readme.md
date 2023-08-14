@@ -1,7 +1,6 @@
 
 # STARTING AMNESIA WITH THE TOOL
 
-- write something in shared_memory_name.txt
 - use LD_PRELOAD to start Amnesia with the tool.
   
   Use the 32-bit tool with 32-bit Amnesia and the 64-bit tool with 64-bit Amnesia.
